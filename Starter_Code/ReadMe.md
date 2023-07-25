@@ -1,0 +1,1 @@
+using pandas i was able to manipulize the data in order tp figurte out the number of schools, students, budget, tests scores, and more. I filtered out the best school and figured out their budget, and test scores per student. 
